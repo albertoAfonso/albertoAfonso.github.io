@@ -1,0 +1,10 @@
+1;15-02-2024;Oviedo, Espanha
+2;16-02-2024;San Isidro, Espanha
+3;13-02-2024;Porto, Portugal;CARNAVAUUUU  
+4;15-02-2024;Oviedo, Espanha
+5;14-12-2023;Porto, Portugal
+6;14-12-2023;Porto, Portugal
+7;14-12-2023;Porto, Portugal
+8;?;Porto, Portugal
+9;14-12-2023;Porto, Portugal
+10;14-12-2023;Porto, Portugal
